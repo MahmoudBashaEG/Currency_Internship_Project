@@ -1,0 +1,13 @@
+C:\Users\mbasg\Desktop\Proj\Proj.Core\bin\Debug\net6.0\Proj.Core.deps.json
+C:\Users\mbasg\Desktop\Proj\Proj.Core\bin\Debug\net6.0\Proj.Core.dll
+C:\Users\mbasg\Desktop\Proj\Proj.Core\bin\Debug\net6.0\ref\Proj.Core.dll
+C:\Users\mbasg\Desktop\Proj\Proj.Core\bin\Debug\net6.0\Proj.Core.pdb
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.GlobalUsings.g.cs
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.csproj.AssemblyReference.cache
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.AssemblyInfoInputs.cache
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.AssemblyInfo.cs
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.csproj.CoreCompileInputs.cache
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.dll
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\ref\Proj.Core.dll
+C:\Users\mbasg\Desktop\Proj\Proj.Core\obj\Debug\net6.0\Proj.Core.pdb
